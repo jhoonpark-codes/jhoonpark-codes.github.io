@@ -42,3 +42,4 @@ p, li { color: var(--text); }
 a { color: var(--accent); }
 nav { display: flex; flex-wrap: wrap; gap: 16px; margin: 28px 0 0; }
 footer { margin-top: 48px; color: var(--muted); font-size: 0.9rem; }
+.card > h2:first-child { margin-top: 0; }
